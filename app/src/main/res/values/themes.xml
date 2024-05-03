@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.IOScalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#000000</item>
+        <item name="colorPrimaryDark">#F8F2F2</item>
+        <item name="colorAccent">#FAFAFA</item>
+    </style>
+
+    <style name="Theme.IOScalculator" parent="Base.Theme.IOScalculator" />
+
+
+
+</resources>
